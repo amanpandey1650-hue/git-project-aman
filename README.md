@@ -7,6 +7,3 @@ my name is aman pandey
 ## projects
 - p1 : learn commands
 - p2 : learn additional commands
-
-## social link
-- github : https://github.com/amanpandey1650-hue
