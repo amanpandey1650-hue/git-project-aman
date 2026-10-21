@@ -3,3 +3,7 @@ my name is aman pandey
 - communication
 - Problem Solving
 - Basic Git
+
+## projects
+- p1 : learn commands
+- p2 : learn additional commands
